@@ -25,5 +25,4 @@ This project aims to analyze the factors influencing the value of used BMW cars 
 - The dataset represents real-world sales but may have minor inconsistencies.
 - External factors like market conditions and policies are not explicitly documented but should be considered.
 
-Happy analyzing!
 
